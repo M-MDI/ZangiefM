@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=MEHDI%20MOULABBI&fontSize=70&fontColor=00F0FF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Systems%20Builder%20%C2%B7%20Security%20Researcher&descAlignY=55&descSize=16" width="100%"/>
@@ -612,4 +612,3 @@ Security Engineer
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-```
